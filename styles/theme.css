@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.theme-container {
+    text-align: center;
+    padding: 2rem;
+    max-width: 800px;
+}
+
+.theme-container h1 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+    font-size: 2.5rem;
+}
+
+.theme-container h2 {
+    color: #7f8c8d;
+    margin-bottom: 2rem;
+}
+
+.themes {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.theme-card {
+    background: white;
+    border-radius: 10px;
+    padding: 2rem;
+    text-decoration: none;
+    color: #333;
+    transition: transform 0.3s, box-shadow 0.3s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.theme-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.theme-card span {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.theme-card p {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+/* Cores específicas para cada tema */
+.fruits { border-top: 5px solid #2ecc71; }
+.animals { border-top: 5px solid #e74c3c; }
+.sports { border-top: 5px solid #3498db; }
+.flags { border-top: 5px solid #9b59b6; }

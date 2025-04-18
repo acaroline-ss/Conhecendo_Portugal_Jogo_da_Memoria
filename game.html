@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo da Memória</title>
+    <link rel="stylesheet" href="styles/game.css">
+</head>
+<body>
+    <div class="game-container">
+        <header>
+            <h1>Jogo da Memória</h1>
+            <div class="score">
+                <span>Movimentos: <span id="moves">0</span></span>
+                <span>Tempo: <span id="timer">00:00</span></span>
+            </div>
+        </header>
+
+        <div class="memory-game" id="memory-game">
+            <!-- Cartas serão inseridas pelo JavaScript -->
+        </div>
+
+        <div class="controls">
+            <button id="reset-btn">Reiniciar Jogo</button>
+            <a href="index.html" class="change-theme">Mudar Tema</a>
+        </div>
+    </div>
+
+    <script src="scripts/game.js"></script>
+</body>
+</html>
