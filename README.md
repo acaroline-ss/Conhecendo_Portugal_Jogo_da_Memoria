@@ -14,11 +14,6 @@ Um jogo da memória interativo com múltiplos temas e efeitos sonoros, desenvolv
 
 ## 🚀 Como Executar
 
-### Opção 1: Abrir direto no navegador
-1. Acesse a página do GitHub Pages:  
-   [https://github.com/acaroline-ss/Jogo_da_Memoria.git](https://github.com/acaroline-ss/Jogo_da_Memoria.git)
-
-### Opção 2: Executar localmente
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/acaroline-ss/Jogo_da_Memoria.git
