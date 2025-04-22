@@ -14,7 +14,7 @@ Um jogo da memória interativo com múltiplos temas e efeitos sonoros, desenvolv
 
 - Encontre todos os pares de cartas no menor tempo possível
 - Quanto menos movimentos, melhor sua pontuação
-- Temas disponíveis: Monumentos 🏰, Culinária 🐶, Figuras Históricass ⚽ e Brasões 🇧🇷
+- Temas disponíveis: Monumentos 🏰, Culinária 🍲, Figuras Históricass 👤 e Brasões 🛡️
 
 ## 🚀 Como Executar
 
