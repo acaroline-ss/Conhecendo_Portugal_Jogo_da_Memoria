@@ -289,7 +289,7 @@ function showWinModal() {
         initGame();
     });
 
-    // Botão "Escolher Tema" (NOVO)
+    // Botão "Escolher Tema" 
     document.getElementById('change-theme').addEventListener('click', () => {
         window.location.href = 'index.html'; // Redireciona para a tela de temas
     });
@@ -328,7 +328,7 @@ function formatTime(totalSeconds) {
 // CONTROLES DO JOGO
 // ====================
 
-// Reinicia o estado do jogo (sem recarregar a página)
+// Reinicia o estado do jogo
 function resetGameState() {
     // Limpa a descrição atual
     if (currentDescription) {
