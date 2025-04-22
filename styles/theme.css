@@ -64,7 +64,7 @@ body {
 }
 
 /* Cores específicas para cada tema */
-.fruits { border-top: 5px solid #2ecc71; }
-.animals { border-top: 5px solid #e74c3c; }
-.sports { border-top: 5px solid #3498db; }
-.flags { border-top: 5px solid #9b59b6; }
+.monumentos { border-top: 5px solid #2ecc71; }
+.culinaria { border-top: 5px solid #e74c3c; }
+.figuras { border-top: 5px solid #3498db; }
+.cidades { border-top: 5px solid #9b59b6; }
