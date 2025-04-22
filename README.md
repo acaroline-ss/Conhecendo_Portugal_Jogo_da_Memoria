@@ -2,7 +2,7 @@
 
 Um jogo da memória interativo com múltiplos temas e efeitos sonoros, desenvolvido com HTML, CSS e JavaScript.
 
-<img width="400" alt="Captura de Tela 2025-04-22 às 23 04 02" src="https://github.com/user-attachments/assets/c4fa06dd-2f79-43ed-9be7-0511d73860e0" />
+<img width="400" alt="Captura de Tela 2025-04-22 às 23 35 50" src="https://github.com/user-attachments/assets/ba1b9050-bc97-4bb2-9fd3-b416143211c2" />
 <img width="400" alt="Captura de Tela 2025-04-22 às 23 05 36" src="https://github.com/user-attachments/assets/67164312-978d-4f13-8571-049b69d01b9d" />
 <img width="400" alt="Captura de Tela 2025-04-22 às 23 11 01" src="https://github.com/user-attachments/assets/a94fd39a-2d0f-4024-a365-942d7954f509" />
 <img width="400" alt="Captura de Tela 2025-04-22 às 23 19 14" src="https://github.com/user-attachments/assets/7706aa89-88cd-4888-b714-d3e719213ffd" />
